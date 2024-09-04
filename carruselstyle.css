@@ -1,0 +1,15 @@
+.carousel-caption h3 {
+    font-size: 28px; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+
+.carousel-caption {
+    color: rgb(77, 136, 89); 
+    font-size: 24px;
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+
